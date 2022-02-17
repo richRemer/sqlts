@@ -1,0 +1,14 @@
+{
+  "name": "@esfn/sqlts",
+  "version": "0.0.1",
+  "description": "SQL string templates",
+  "type": "module",
+  "exports": "./sqlts.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^9.2.0"
+  }
+}
