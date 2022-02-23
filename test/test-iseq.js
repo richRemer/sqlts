@@ -1,5 +1,5 @@
 import expect from "expect.js";
-import {iseq} from "@esfn/sqlts";
+import {iseq} from "sqltpl";
 
 describe("iseq(value)", () => {
   it("should return 'IS ...' when appropriate", () => {

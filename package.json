@@ -1,9 +1,9 @@
 {
-  "name": "@esfn/sqlts",
-  "version": "0.0.2",
+  "name": "sqltpl",
+  "version": "0.0.1",
   "description": "SQL string templates",
   "type": "module",
-  "exports": "./sqlts.js",
+  "exports": "./sqltpl.js",
   "scripts": {
     "test": "mocha"
   },

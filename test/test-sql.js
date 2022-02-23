@@ -1,5 +1,5 @@
 import expect from "expect.js";
-import {sql} from "@esfn/sqlts";
+import {sql} from "sqltpl";
 
 describe("sql(string)", () => {
   it("should return tagged string", () => {

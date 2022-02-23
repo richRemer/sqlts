@@ -1,5 +1,5 @@
 import expect from "expect.js";
-import {set} from "@esfn/sqlts";
+import {set} from "sqltpl";
 
 describe("set(object)", () => {
   it("should create key = value assignments from object", () => {
